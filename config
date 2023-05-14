@@ -1,0 +1,14 @@
+Host 82.150.138.238
+  HostName 82.150.138.238
+  User root
+  Port 22
+
+Host peregrine.hpc.rug.nl
+  HostName peregrine.hpc.rug.nl
+  ForwardX11 yes
+  User p303620
+
+Host umcg.hpc.rug.nl
+  HostName umcg.hpc.rug.nl
+  ForwardX11 yes
+  User e.darzidehkalani
